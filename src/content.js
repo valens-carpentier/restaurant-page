@@ -6,7 +6,7 @@ function createHomepage() {
 
     // Create and append headline
     const headline = document.createElement('h1');
-    headline.textContent = 'Welcome to Our Amazing Restaurant';
+    headline.textContent = 'Bienvenue au Petit Gourmand';
     content.appendChild(headline);
 
     // Create and append image
