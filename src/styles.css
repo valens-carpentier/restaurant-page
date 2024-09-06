@@ -56,3 +56,87 @@ nav button:hover {
     background-color: #2980b9;
 }
 
+/* Add the following styles for the menu */
+.menu {
+    text-align: center;
+}
+
+.menu h2 {
+    color: #2c3e50;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.menu-item {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.menu-item h3 {
+    color: #2c3e50;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.menu-item p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.menu-item span {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #2980b9;
+}
+
+.menu-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+/* Styles for About page */
+.about {
+    text-align: center;
+}
+
+.about h2 {
+    color: #2c3e50;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.about p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.about img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+/* Styles for Contact page */
+.contact {
+    text-align: center;
+}
+
+.contact h2 {
+    color: #2c3e50;
+    font-size: 2em;
+    margin-bottom: 30px;
+}
+
+.contact p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+
